@@ -25,7 +25,7 @@ defmodule Afnd do
   end
 
   def e_determinize({estados,sigma,delta,q0,final}) do
-
+#dsdsdsdss
   end
 
 
